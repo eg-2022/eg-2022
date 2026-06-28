@@ -8,7 +8,7 @@ Sysadmin como pasatiempo y practicante como DevOps. Actualmente cursando Tecnica
 > 
 > 🔁️ Implementación de tests automatizados en Python y JavaScript. (pytest, vitest)
 > 
-> 📦️ Contenerización de aplicaciones con Docker (Dockerfiles y Docker Compose).
+> 🐳️ Contenerización de aplicaciones con Docker (Dockerfiles y Docker Compose).
 > 
 > 📋️ Implementación de pipelines CI/CD con GitHub Actions.
 > 
@@ -25,9 +25,9 @@ Sysadmin como pasatiempo y practicante como DevOps. Actualmente cursando Tecnica
 > 🇺🇸️ Inglés: B1.
 
 ## 🤝️ Habilidades blandas
-- Colaboración con equipos de desarrollo y QA en la automatización de pipelines CI/CD.
-- Participación en la resolución de incidentes mediante análisis de logs y coordinación con el equipo.
-- Comunicación efectiva para la toma de decisiones técnicas y coordinación de cambios en el proyecto.
+> 🧰️ Colaboración con equipos de desarrollo y QA en la automatización de pipelines CI/CD.<br/>
+> 📜️ Participación en la resolución de incidentes mediante análisis de logs y coordinación con el equipo.<br/>
+> 💬️ Comunicación efectiva para la toma de decisiones técnicas y coordinación de cambios en el proyecto.<br/>
 
 <!--
 **eg-2022/eg-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

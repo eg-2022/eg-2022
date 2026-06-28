@@ -4,7 +4,7 @@ Sysadmin como pasatiempo y practicante como DevOps. Actualmente cursando Tecnica
 ## Habilidades técnicas
 - Automatizacion de tareas con Bash y Python.
 - Implementación de tests automatizados en Python y JavaScript. (pytest, vitest)
-- Contenerización de aplicaciones con Docker (Dockerfiles y Docker Compose).
+- 📦️ Contenerización de aplicaciones con Docker (Dockerfiles y Docker Compose).
 - Implementación de pipelines CI/CD con GitHub Actions.
 - Hardening y administración de servidores Linux.
 - Redes: firewall, SSH, DNS, DHCP y subnetting.
